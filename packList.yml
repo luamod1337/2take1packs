@@ -1,0 +1,24 @@
+Vehicle:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/vehicle/packList.yml'
+Animation:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/animation/packList.yml'
+Config:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/config/packList.yml'
+Font:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/font/packList.yml'
+Language:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/language/packList.yml'
+Outfit:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/outfit/packList.yml'
+Protection:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/protection/packList.yml'
+Script:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/script/packList.yml'
+Settings:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/settings/packList.yml'
+Sprite:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/sprite/packList.yml'
+Stat:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/stat/packList.yml'
+Teleport:
+  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/teleport/packList.yml'
