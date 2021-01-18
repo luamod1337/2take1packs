@@ -26,7 +26,7 @@ This means you can open it with any ```zip``` compatible File explorer.\
 Examples are Winrar, 7Zip or even the Windows Explorer.\
 Either rename the file to ```xyz.zip``` or open it with a zip program.
 
-![example of an opened pack with 7zip](/images/7zip.png)
+![example of an opened pack with 7zip](https://raw.githubusercontent.com/luamod1337/2take1packs/master/images/7zip.png)
 
 
 it is **required** that a 2take1pack contains an **install.yml** file
