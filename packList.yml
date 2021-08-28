@@ -14,8 +14,6 @@ Protection:
   - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/protection/packList.yml'
 Script:
   - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/script/packList.yml'
-Settings:
-  - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/settings/packList.yml'
 Sprite:
   - 'https://raw.githubusercontent.com/luamod1337/2take1packs/master/sprite/packList.yml'
 Stat:
